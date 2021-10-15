@@ -4,8 +4,6 @@ I'm a junior JavaScript developper from Paris.
 
 I am doing a web dev training which prepares to be fullstack ..
 
-I don't pretend to be fullstack today, but dev back yes.
-
 And I love it, I have a logical mind, like to understand how things work and above all I am passionate about dev
 
 
