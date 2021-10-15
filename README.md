@@ -29,8 +29,6 @@ And I love it, I have a logical mind, like to understand how things work and abo
 ## Connect with me
 <a href="https://www.linkedin.com/in/jerome-karabenli-2b252b68/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="https://www.linkedin.com/in/jerome-karabenli-2b252b68/" height="50" width="60" /></a> <a href="https://twitter.com/KarabenliJerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/twitter/twitter-original.svg" alt="https://twitter.com/KarabenliJerome" height="30" width="40" /></a> <a href="mailto:contact@jerome-karabenli.fr" target="blank"><img align="center" src="https://www.svgrepo.com/show/258737/mail-email.svg" alt="mailto:contact@jerome-karabenli.fr" height="30" width="40" /></a> 
 
-## My portfolio
-<a href="https://jerome-karabenli.fr/" target="blank" alt="https://jerome-karabenli.fr">jerome-karabenli.fr</a>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerome-karabenli&label=Profile%20views&color=brightgreen&style=flat" alt="jerome-karabenli" /> </p> -->
