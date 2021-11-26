@@ -1,6 +1,6 @@
 # Jerome Karabenli - Welcome in my GitHub page
 
-I'm a junior JavaScript developper from Paris.
+I'm a JavaScript developper from Paris.
 
 I am doing a web dev training which prepares to be fullstack ..
 
