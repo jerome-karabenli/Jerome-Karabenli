@@ -1,32 +1,32 @@
 # Jerome Karabenli - Welcome in my GitHub page
 
-I'm a JavaScript developper from Paris.
+I'm a developper from Paris.
 
-I am doing a web dev training which prepares to be fullstack ..
+After working in management, I studied web development at the [O'clock](https://oclock.io/) school. I realized that what fascinates me is the machine / network infrastructure, the security of the network, the automation of deployments, monitoring and alerting. I am currently working on [OCI](https://www.oracle.com/fr/cloud/) which gives a good playing field.
 
-And I love it, I have a logical mind, like to understand how things work and above all I am passionate about dev
+And I love it, I have a logical mind, like to understand how things works, love challenges and above all I am passionate about dev
 
 
-**Back skills** in progress 
+**Softwares**
+<p float="left">
+<img width="50" src="https://training.wescale.fr/hubfs/TERRAFORM-1.png" alt="html logo" />
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="css logo" />
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original-wordmark.svg" alt="docker logo" alt="javascript logo" />
+<img width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" alt="sass logo" />
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="bootstrap logo" />
+</p>
+
+**Languages** **/** **Databases**
 <p float="left">
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" />
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/express/express-original-wordmark.svg" alt="express logo" />
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" alt="express logo" />
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" />
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original-wordmark.svg" alt="docker logo" />
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" alt="mongodb logo" />
 </p>
 
-**Front skills** in progress
-<p float="left">
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original-wordmark.svg" alt="html logo" />
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original-wordmark.svg" alt="css logo" />
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" alt="javascript logo" />
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sass/sass-original.svg" alt="sass logo" />
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" />
-</p>
+
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/jerome-karabenli-2b252b68/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="https://www.linkedin.com/in/jerome-karabenli-2b252b68/" height="50" width="60" /></a> <a href="https://twitter.com/KarabenliJerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/twitter/twitter-original.svg" alt="https://twitter.com/KarabenliJerome" height="30" width="40" /></a> <a href="mailto:contact@jerome-karabenli.fr" target="blank"><img align="center" src="https://www.svgrepo.com/show/258737/mail-email.svg" alt="mailto:contact@jerome-karabenli.fr" height="30" width="40" /></a> 
+<a href="https://linktr.ee/jkarabenli" target="blank"><img align="center" src="https://ccsfweb.org/wp-content/uploads/2020/09/chantmagick-linktree-logo-white-e1600973555711.png" height="20" /></a> 
 
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerome-karabenli&label=Profile%20views&color=brightgreen&style=flat" alt="jerome-karabenli" /> </p> -->
