@@ -1,32 +1,38 @@
-# Jerome Karabenli - Welcome in my GitHub page
+# Hi, I'm Jerome 👋
 
-I'm a developper from Paris.
+I'm a Backend developer & DevOps
 
-After working in management, I studied web development at the [O'clock](https://oclock.io/) school. I realized that what fascinates me is the machine / network infrastructure, the security of the network, the automation of deployments, monitoring and alerting. I am currently working on [OCI](https://www.oracle.com/fr/cloud/) which gives a good playing field.
+[![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerome-Karabenli)](https://github.com/BenjaminChoron)
 
-And I love it, I have a logical mind, like to understand how things works, love challenges and above all I am passionate about dev
+## Contact me 📫
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/jerome-karabenli-2b252b68/)
+[<img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>](mailto:contact@jkarabenli.dev)
 
-**Softwares**
-<p float="left">
-<img width="50" src="https://training.wescale.fr/hubfs/TERRAFORM-1.png" alt="html logo" />
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="css logo" />
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original-wordmark.svg" alt="docker logo" alt="javascript logo" />
-<img width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" alt="sass logo" />
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="bootstrap logo" />
-</p>
+## Skills 🛠️
 
-**Languages** **/** **Databases**
-<p float="left">
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" />
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" alt="express logo" />
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" />
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" alt="mongodb logo" />
-</p>
+![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
+![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
+![Docker](https://img.icons8.com/fluency/48/000000/docker.png)
+![Javascript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![MongoDB](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)
+![Redis](https://img.icons8.com/color/48/000000/redis.png)
 
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Linux](https://img.icons8.com/color/48/000000/linux--v1.png)
+![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
 
-## Connect with me
-<a href="https://linktr.ee/jkarabenli" target="blank"><img align="center" src="https://ccsfweb.org/wp-content/uploads/2020/09/chantmagick-linktree-logo-white-e1600973555711.png" height="20" /></a> 
+![Grafana](https://img.icons8.com/fluency/48/000000/grafana.png)
+![Prometheus](https://img.icons8.com/color/48/000000/prometheus-app.png)
+ 
+## My Blog
+[__jkarabenli.dev__](jkarabenli.dev/posts)
+
+## About me 🧔🏻
+
+I ❤️ playing with my <img src="https://upload.wikimedia.org/wikipedia/fr/3/3b/Raspberry_Pi_logo.svg" height="" width="15">
 
 
