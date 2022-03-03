@@ -2,7 +2,7 @@
 
 I'm a Backend developer & DevOps
 
-[![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerome-Karabenli)](https://github.com/BenjaminChoron)
+[![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerome-Karabenli)](https://github.com/jerome-karabenli)
 
 ## Contact me 📫
 
