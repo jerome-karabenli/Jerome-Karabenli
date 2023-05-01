@@ -29,7 +29,7 @@ I'm a Backend developer & DevOps
 ![Prometheus](https://img.icons8.com/color/48/000000/prometheus-app.png)
  
 ## My Blog
-[__jkarabenli.dev__](https://jkarabenli.dev/posts)
+[__link__](https://jerome-karabenli.com/blog)
 
 ## About me 🧔🏻
 
