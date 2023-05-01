@@ -7,7 +7,7 @@ I'm a Backend developer & DevOps
 ## Contact me 📫
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/jerome-karabenli-2b252b68/)
-[<img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>](mailto:contact@jkarabenli.dev)
+[<img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>](mailto:contact@jerome-karabenli.com)
 
 ## Skills 🛠️
 
